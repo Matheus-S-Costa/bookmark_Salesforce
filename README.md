@@ -9,7 +9,7 @@ Com um clique, ele baixará os resultados do console em um arquivo csv.
 ## Demonstração
 
 Preview de como executar o bookmark:
-![Demo bookmark](../bookmark_Salesforce/assets/Bookmark.png)
+![Demo bookmark](./assets/Bookmark.png)
 
 - Selecione a aba que deseja exportar (o script pega apenas a aba ativa).
 

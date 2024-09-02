@@ -1,10 +1,10 @@
 # Bookmark Salesforce
 
-Uma solução rápida que funciona para quem precisa realizar exportações do console. O script abre uma nova janela com dados brutos em formato csv e um link para um arquivo csv para download. O script funciona no Chrome, não verifiquei em outros navegadores.
+Uma solução rápida que funciona para quem precisa realizar exportações do console. O script abre uma nova janela com dados brutos em formato xlsx e um link para um arquivo xlsx para download. O script funciona no Chrome, não verifiquei em outros navegadores.
 
 Cole o trecho do código main.js na aba console do inspect element na URL do seu developer console.
 
-Com um clique, ele baixará os resultados do console em um arquivo csv.
+Com um clique, ele baixará os resultados do console em um arquivo excel.
 
 ## Demonstração
 

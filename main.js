@@ -27,7 +27,7 @@ javascript: (function () {
     n.push(a);
   }
   for (
-    var d = "data:text/csv;charset=utf-8,filename=download.csv,", l = [], r = 0;
+    var d = "data:text/xlsx;charset=utf-8,filename=download.xlsx,", l = [], r = 0;
     r < n.length;
     r++
   )
@@ -35,7 +35,7 @@ javascript: (function () {
   d += l.join("\r\n");
   var c = document.createElement("a");
   c.setAttribute("href", encodeURI(d)),
-    c.setAttribute("download", "dev_console.csv"),
+    c.setAttribute("download", "dev_console.xlsx"),
     document.body.appendChild(c),
     c.click();
 })();
